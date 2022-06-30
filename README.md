@@ -35,7 +35,7 @@ Step 8
 On computing the precision and the recall we get that precision of data prediction is 55% and recall is 57% 
  
 
-	
+That was all about the working. Hope you find it easy to grasp.	
 
 Thankss!!!!
                      
