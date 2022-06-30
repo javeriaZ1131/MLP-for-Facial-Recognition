@@ -1,5 +1,5 @@
 # MLP-for-Facial-Recognition
-
+Apply the MLP for digit recognization and perform the complete analysis of this implementation in terms of calculation accuracy,recall and percision. and also the output is also displayed.
         
 Step 1
 Firstly we will load   the dataset which in this case is the facial expression of 5 different emotions which are stored in the Data.zip file.Firstly the zip file is extracted.
